@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1717001831 source:c:\users\calu\desktop\proiect pa\main\distribution.c
+	<stdlib.h>
+	"distribution.h"
+
+1717001831 c:\users\calu\desktop\proiect pa\main\distribution.h
+
+1717001831 source:c:\users\calu\desktop\proiect pa\main\input.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+
+1717001831 c:\users\calu\desktop\proiect pa\main\input.h
+
+1717001831 source:c:\users\calu\desktop\proiect pa\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	"distribution.h"
+	"output.h"
+
+1717001831 c:\users\calu\desktop\proiect pa\main\output.h
+
+1717001831 source:c:\users\calu\desktop\proiect pa\main\output.c
+	<stdio.h>
+	"output.h"
+
